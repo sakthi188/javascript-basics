@@ -1,0 +1,17 @@
+var num1;
+num1=(10*8)/5;
+console.log(num1);
+
+var name="harini";
+var h="Let us make it simple " +name+ " in this situation";
+console.log(h);
+
+var num2=10;
+num2*=20;
+console.log(num2);
+
+var h="I am \"a person\"";
+console.log(h);
+
+var n="My name is john\ni am from delhi\n\t bye";
+console.log(n);
