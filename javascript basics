@@ -1,0 +1,17 @@
+//to display welcome
+console.log("Welcome!");
+/*these are multiline
+commands in javascript*/
+
+var myName="dhana";
+myName+="lakshmi";
+console.log(myName);
+
+console.log("Make sure you use this " +myName);
+
+var num1=8;
+var num2=10;
+console.log(num1+num2);
+
+num1++;
+console.log(num1);
