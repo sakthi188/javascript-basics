@@ -1,0 +1,25 @@
+//concatenation strings
+
+var a="hello";
+var b=" sir";
+var c=a+b;
+console.log(c);
+
+var c="mind blowing";
+var d="wow!";
+d+=c;
+console.log(d);
+
+
+//length of string
+
+var city="Mumbai";
+var l=0;
+l=city.length;
+console.log(l);
+
+//indexing
+
+var city1="Delhi";
+var m=city1[0];
+console.log(m);
